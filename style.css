@@ -95,8 +95,6 @@ text-align: center;
 margin-top: 20px;
 }
 div span img{
-    margin-top: 1rem;
-    width:20vmax;
     height: 20vmax;
     object-fit: fill;
 }
